@@ -1,11 +1,6 @@
 # Coser Names Dictionary
 
-中文：Coser 人名与别名字典
-
-This repository provides a community-maintained dictionary of creator names
-and aliases for archive classification tools.
-
-本仓库提供用于压缩包分类工具的 Coser 人名及别名字典。
+中文：R18 Coser 人名与别名字典
 
 ## Scope / 内容范围
 
@@ -39,14 +34,6 @@ when submitting a change that merges two previously separate people.
 - `creator`: canonical display name / 规范显示名
 - `aliases`: aliases separated by `/` / 多个别名使用 `/` 分隔
 
-The dictionary does not contain private paths, accounts, IP addresses,
-passwords, API keys, logs, or deployment configuration.
-
-字典不包含私有路径、账号、IP 地址、密码、API key、日志或部署配置。
-
-## License / 许可证
-
-The dictionary is released under CC BY 4.0 where applicable. Please preserve
 attribution and check the rights of any data you contribute.
 
 在适用范围内，字典采用 CC BY 4.0 发布。提交内容时请保留必要署名，并确认所贡献数据的使用权利。
